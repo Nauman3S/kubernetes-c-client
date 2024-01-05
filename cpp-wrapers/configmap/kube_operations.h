@@ -18,7 +18,7 @@ typedef enum {
 int initialize_kube(apiClient_t **apiClient, char **basePath, sslConfig_t **sslConfig, list_t **apiKeys);
 
 // Function to perform specified operation on config maps
-void perform_configmap_operations(apiClient_t* apiClient, const char *namespace_, ConfigMapOperation op);
+void perform_configmap_operations(apiClient_t *apiClient, ConfigMapOperation op, const char *config_map_name, const char *namespace_);
 
 int free_kube(apiClient_t **apiClient, char **basePath, sslConfig_t **sslConfig, list_t **apiKeys);
 
