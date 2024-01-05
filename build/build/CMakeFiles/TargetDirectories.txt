@@ -1,0 +1,9 @@
+/usr/src/app/c/kubernetes/build/CMakeFiles/kubernetes.dir
+/usr/src/app/c/kubernetes/build/CMakeFiles/package.dir
+/usr/src/app/c/kubernetes/build/CMakeFiles/package_source.dir
+/usr/src/app/c/kubernetes/build/CMakeFiles/edit_cache.dir
+/usr/src/app/c/kubernetes/build/CMakeFiles/rebuild_cache.dir
+/usr/src/app/c/kubernetes/build/CMakeFiles/list_install_components.dir
+/usr/src/app/c/kubernetes/build/CMakeFiles/install.dir
+/usr/src/app/c/kubernetes/build/CMakeFiles/install/local.dir
+/usr/src/app/c/kubernetes/build/CMakeFiles/install/strip.dir
